@@ -1,5 +1,5 @@
-# Oval-and-Spiral-Travesrsing-Robot
-A ROS Package: Controlling a Turtlebot on Oval and Spiral paths
+# Oval-and-Spiral-Traversing-Robot
+A robot controller implemented as a ROS package which follows oval and spiral paths
 
 Oval Path:
 
